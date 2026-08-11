@@ -1,2 +1,3 @@
 # mmtracker
-Tracking service for Materia Magic
+
+Tracking service for Materia Magica
